@@ -30,10 +30,10 @@ void convert(int index) {
       print("Tienes ahora ${cantidad * 1.14} de dolares");
       break;
     case 3:
-      print("Tienes ahora ${cantidad / 4.89} de dolares");
+      print("Tienes ahora ${cantidad / 4.89} de soles");
       break;
     case 4:
-      print("Tienes ahora ${cantidad / 4.11} de dolares");
+      print("Tienes ahora ${cantidad / 4.11} de soles");
       break;
     default:
   }
